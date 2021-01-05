@@ -12,13 +12,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-10 | [A - Sereja and Dima](https://codeforces.com/contest/381/problem/A) | [GNU C++17](./codeforces/381/A.cpp) | `greedy` `implementation` `two pointers` `*800` | Mar/28/2021 15:17 | 
-9 | [A - Word](https://codeforces.com/contest/59/problem/A) | [GNU C++17](./codeforces/59/A.cpp) | `implementation` `strings` `*800` | Mar/28/2021 11:04 | 
-8 | [A - Let's Watch Football](https://codeforces.com/contest/195/problem/A) | [GNU C++17](./codeforces/195/A.cpp) | `binary search` `brute force` `math` `*1000` | Feb/09/2021 17:28 | 
-7 | [A - Little Artem and Presents](https://codeforces.com/contest/669/problem/A) | [Python 3](./codeforces/669/A.py) | `math` `*800` | Jan/28/2021 17:26 | 
-6 | [A - Points in Segments](https://codeforces.com/contest/1015/problem/A) | [GNU C++17](./codeforces/1015/A.cpp) | `implementation` `*800` | Jan/16/2021 17:36 | 
-5 | [A - Diverse Team](https://codeforces.com/contest/988/problem/A) | [GNU C++17](./codeforces/988/A.cpp) | `brute force` `implementation` `*800` | Jan/16/2021 16:21 | 
-4 | [A - Little Artem and Grasshopper](https://codeforces.com/contest/641/problem/A) | [GNU C++17](./codeforces/641/A.cpp) | `implementation` `*1000` | Jan/11/2021 16:39 | 
-3 | [B - Sereja and Mirroring](https://codeforces.com/contest/426/problem/B) | [GNU C++17](./codeforces/426/B.cpp) | `implementation` `*1300` | Jan/10/2021 16:33 | 
-2 | [A - New Year and Counting Cards](https://codeforces.com/contest/908/problem/A) | [GNU C++17](./codeforces/908/A.cpp) | `brute force` `implementation` `*800` | Jan/10/2021 14:42 | 
-1 | [A - Tanya and Stairways](https://codeforces.com/contest/1005/problem/A) | [GNU C++17](./codeforces/1005/A.cpp) | `implementation` `*800` | Jan/06/2021 22:48 | 
+11 | [A - Sereja and Dima](https://codeforces.com/contest/381/problem/A) | [GNU C++17](./codeforces/381/A.cpp) | `greedy` `implementation` `two pointers` `*800` | Mar/28/2021 15:17 | 
+10 | [A - Word](https://codeforces.com/contest/59/problem/A) | [GNU C++17](./codeforces/59/A.cpp) | `implementation` `strings` `*800` | Mar/28/2021 11:04 | 
+9 | [A - Let's Watch Football](https://codeforces.com/contest/195/problem/A) | [GNU C++17](./codeforces/195/A.cpp) | `binary search` `brute force` `math` `*1000` | Feb/09/2021 17:28 | 
+8 | [A - Little Artem and Presents](https://codeforces.com/contest/669/problem/A) | [Python 3](./codeforces/669/A.py) | `math` `*800` | Jan/28/2021 17:26 | 
+7 | [A - Points in Segments](https://codeforces.com/contest/1015/problem/A) | [GNU C++17](./codeforces/1015/A.cpp) | `implementation` `*800` | Jan/16/2021 17:36 | 
+6 | [A - Diverse Team](https://codeforces.com/contest/988/problem/A) | [GNU C++17](./codeforces/988/A.cpp) | `brute force` `implementation` `*800` | Jan/16/2021 16:21 | 
+5 | [A - Little Artem and Grasshopper](https://codeforces.com/contest/641/problem/A) | [GNU C++17](./codeforces/641/A.cpp) | `implementation` `*1000` | Jan/11/2021 16:39 | 
+4 | [B - Sereja and Mirroring](https://codeforces.com/contest/426/problem/B) | [GNU C++17](./codeforces/426/B.cpp) | `implementation` `*1300` | Jan/10/2021 16:33 | 
+3 | [A - New Year and Counting Cards](https://codeforces.com/contest/908/problem/A) | [GNU C++17](./codeforces/908/A.cpp) | `brute force` `implementation` `*800` | Jan/10/2021 14:42 | 
+2 | [A - Tanya and Stairways](https://codeforces.com/contest/1005/problem/A) | [GNU C++17](./codeforces/1005/A.cpp) | `implementation` `*800` | Jan/06/2021 22:48 | 
+1 | [A - Heist](https://codeforces.com/contest/1041/problem/A) | [GNU C++17](./codeforces/1041/A.cpp) | `greedy` `implementation` `sortings` `*800` | Jan/05/2021 19:51 | 
