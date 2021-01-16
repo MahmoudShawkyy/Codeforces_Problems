@@ -1,4 +1,20 @@
 {
+  "CF104522292": {
+    "contest_id": 1015,
+    "language": "GNU C++17",
+    "path": "codeforces\\1015\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Points in Segments",
+    "problem_url": "https://codeforces.com/contest/1015/problem/A",
+    "submission_id": "CF104522292",
+    "submission_url": "https://codeforces.com/contest/1015/submission/104522292",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/16/2021 17:36"
+  },
   "CF105732324": {
     "contest_id": 669,
     "language": "Python 3",
