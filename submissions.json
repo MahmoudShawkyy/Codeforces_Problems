@@ -1,4 +1,21 @@
 {
+  "CF104516235": {
+    "contest_id": 988,
+    "language": "GNU C++17",
+    "path": "codeforces\\988\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Diverse Team",
+    "problem_url": "https://codeforces.com/contest/988/problem/A",
+    "submission_id": "CF104516235",
+    "submission_url": "https://codeforces.com/contest/988/submission/104516235",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/16/2021 16:21"
+  },
   "CF104522292": {
     "contest_id": 1015,
     "language": "GNU C++17",
