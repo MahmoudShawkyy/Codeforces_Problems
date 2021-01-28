@@ -1,4 +1,20 @@
 {
+  "CF105732324": {
+    "contest_id": 669,
+    "language": "Python 3",
+    "path": "codeforces\\669\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Little Artem and Presents",
+    "problem_url": "https://codeforces.com/contest/669/problem/A",
+    "submission_id": "CF105732324",
+    "submission_url": "https://codeforces.com/contest/669/submission/105732324",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/28/2021 17:26"
+  },
   "CF106997559": {
     "contest_id": 195,
     "language": "GNU C++17",
