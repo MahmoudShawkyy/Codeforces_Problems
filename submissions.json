@@ -250,6 +250,22 @@
     ],
     "timestamp": "Mar/28/2021 15:17"
   },
+  "CF113134719": {
+    "contest_id": 556,
+    "language": "GNU C++17",
+    "path": "codeforces\\556\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Case of the Zeros and Ones",
+    "problem_url": "https://codeforces.com/contest/556/problem/A",
+    "submission_id": "CF113134719",
+    "submission_url": "https://codeforces.com/contest/556/submission/113134719",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Apr/16/2021 02:33"
+  },
   "CF113135101": {
     "contest_id": 41,
     "language": "GNU C++17",
