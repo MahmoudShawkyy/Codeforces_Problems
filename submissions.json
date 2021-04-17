@@ -250,6 +250,22 @@
     ],
     "timestamp": "Mar/28/2021 15:17"
   },
+  "CF113282449": {
+    "contest_id": 454,
+    "language": "GNU C++17",
+    "path": "codeforces\\454\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Little Pony and Crystal Mine",
+    "problem_url": "https://codeforces.com/contest/454/problem/A",
+    "submission_id": "CF113282449",
+    "submission_url": "https://codeforces.com/contest/454/submission/113282449",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/17/2021 02:50"
+  },
   "CF113283249": {
     "contest_id": 546,
     "language": "GNU C++17",
