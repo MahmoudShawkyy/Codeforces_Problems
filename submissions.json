@@ -250,6 +250,23 @@
     ],
     "timestamp": "Mar/28/2021 15:17"
   },
+  "CF118024552": {
+    "contest_id": 469,
+    "language": "GNU C++17",
+    "path": "codeforces\\469\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "I Wanna Be the Guy",
+    "problem_url": "https://codeforces.com/contest/469/problem/A",
+    "submission_id": "CF118024552",
+    "submission_url": "https://codeforces.com/contest/469/submission/118024552",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/01/2021 00:33"
+  },
   "CF118089002": {
     "contest_id": 208,
     "language": "GNU C++17",
