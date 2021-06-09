@@ -250,6 +250,24 @@
     ],
     "timestamp": "Mar/28/2021 15:17"
   },
+  "CF118874839": {
+    "contest_id": 682,
+    "language": "GNU C++17",
+    "path": "codeforces\\682\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Alyona and Numbers",
+    "problem_url": "https://codeforces.com/contest/682/problem/A",
+    "submission_id": "CF118874839",
+    "submission_url": "https://codeforces.com/contest/682/submission/118874839",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Jun/09/2021 12:22"
+  },
   "CF118878572": {
     "contest_id": 218,
     "language": "GNU C++17",
