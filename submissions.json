@@ -2585,6 +2585,21 @@
     ],
     "timestamp": "Aug/20/2021 06:10"
   },
+  "CF128224827": {
+    "contest_id": 1569,
+    "language": "GNU C++14",
+    "path": "codeforces\\1569\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Balanced Substring",
+    "problem_url": "https://codeforces.com/contest/1569/problem/A",
+    "submission_id": "CF128224827",
+    "submission_url": "https://codeforces.com/contest/1569/submission/128224827",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Sep/08/2021 16:46"
+  },
   "CF91097791": {
     "contest_id": 677,
     "language": "MS C++ 2017",
