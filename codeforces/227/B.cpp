@@ -17,19 +17,19 @@ void solve()
 {
     int n,m;
     cin>>n;
-    int arr[100005];
+    map<int,int>mp;
     loop(n)
     {
         cin>>m;
-        arr[m]=i+1;
+        mp.insert({m,i+1});
     }
     ll a=0,b=0,x;
     cin>>m;
     loop(m)
     {
         cin>>x;
-        a+=arr[x];
-        b+=n-arr[x]+1;
+        a+=mp[x];
+        b+=n-mp[x]+1;
     }
     cout<<a<<" "<<b<<endl;
 }
