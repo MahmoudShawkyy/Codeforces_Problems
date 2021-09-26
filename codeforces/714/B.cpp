@@ -33,7 +33,7 @@ int main()
         auto start=st.begin(),endd=st.end();
         start++;
         endd--;
-        if((st.size()==3&&*endd-*start==*start-*st.begin())||st.size()==2)
+        if((st.size()==3&&*endd+*st.begin()==*start*2)||st.size()==2)
             cout<<"YES\n";
         else if(*endd==*st.begin())
             cout<<"YES\n";
